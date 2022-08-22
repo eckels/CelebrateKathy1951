@@ -1,0 +1,65 @@
+body {
+    padding: 12px;
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+}
+
+.page-inside {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo-container {
+    margin: 0;
+}
+
+.photos {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photos img {
+    border-radius: 3px;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title-text {
+    margin-top: 12px;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+h2 {
+    margin: 0;
+    margin-bottom: 4px;
+}
+
+p {
+    margin: 0;
+}
+
+.event-text {
+
+}
+
+.event {
+    margin-bottom: 24px;
+}
+
+.title {
+    opacity: 0.6;
+    font-weight: bold;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    margin-bottom: 3px;
+}
+
+a {
+    color: black;
+}
