@@ -49,7 +49,7 @@ p {
 }
 
 .event {
-    margin-bottom: 24px;
+    margin-bottom: 28px;
 }
 
 .title {
@@ -62,4 +62,18 @@ p {
 
 a {
     color: black;
+}
+
+.event img {
+    margin-top: 18px;
+    border-radius: 4px;
+    width: 100%;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centerer {
+    text-align: center;
+    width: 100%;
 }
